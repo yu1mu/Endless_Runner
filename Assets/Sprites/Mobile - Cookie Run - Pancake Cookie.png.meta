@@ -1,0 +1,1704 @@
+fileFormatVersion: 2
+guid: 951ae067caa7faf44a042da522fe6f7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 92782169458333779
+    second: Mobile - Cookie Run - Pancake Cookie_0
+  - first:
+      213: -8721908516421437665
+    second: Mobile - Cookie Run - Pancake Cookie_1
+  - first:
+      213: -3117695103027827366
+    second: Mobile - Cookie Run - Pancake Cookie_2
+  - first:
+      213: -6802925128609522361
+    second: Mobile - Cookie Run - Pancake Cookie_3
+  - first:
+      213: -6237273574560741741
+    second: Mobile - Cookie Run - Pancake Cookie_4
+  - first:
+      213: 8164686711136824112
+    second: Mobile - Cookie Run - Pancake Cookie_5
+  - first:
+      213: -7123884288417737958
+    second: Mobile - Cookie Run - Pancake Cookie_6
+  - first:
+      213: 8910465216925897241
+    second: Mobile - Cookie Run - Pancake Cookie_7
+  - first:
+      213: 6511300913689434519
+    second: Mobile - Cookie Run - Pancake Cookie_8
+  - first:
+      213: -7623783779396039176
+    second: Mobile - Cookie Run - Pancake Cookie_9
+  - first:
+      213: 770368352454741434
+    second: Mobile - Cookie Run - Pancake Cookie_10
+  - first:
+      213: -1636809736972154540
+    second: Mobile - Cookie Run - Pancake Cookie_11
+  - first:
+      213: 4296019552902422184
+    second: Mobile - Cookie Run - Pancake Cookie_12
+  - first:
+      213: 3241929361477215854
+    second: Mobile - Cookie Run - Pancake Cookie_13
+  - first:
+      213: -2773185559808525088
+    second: Mobile - Cookie Run - Pancake Cookie_14
+  - first:
+      213: -8358270697991509779
+    second: Mobile - Cookie Run - Pancake Cookie_15
+  - first:
+      213: 326295632020643276
+    second: Mobile - Cookie Run - Pancake Cookie_16
+  - first:
+      213: -3383879509497532907
+    second: Mobile - Cookie Run - Pancake Cookie_17
+  - first:
+      213: 8944285109299388096
+    second: Mobile - Cookie Run - Pancake Cookie_18
+  - first:
+      213: 302662602021041835
+    second: Mobile - Cookie Run - Pancake Cookie_19
+  - first:
+      213: -5647819366155835344
+    second: Mobile - Cookie Run - Pancake Cookie_20
+  - first:
+      213: 5327957287260594706
+    second: Mobile - Cookie Run - Pancake Cookie_21
+  - first:
+      213: 7595382723539205423
+    second: Mobile - Cookie Run - Pancake Cookie_22
+  - first:
+      213: 1034682446720078780
+    second: Mobile - Cookie Run - Pancake Cookie_23
+  - first:
+      213: -1400300012186054878
+    second: Mobile - Cookie Run - Pancake Cookie_24
+  - first:
+      213: -2741488466848844643
+    second: Mobile - Cookie Run - Pancake Cookie_25
+  - first:
+      213: -4100942009529460528
+    second: Mobile - Cookie Run - Pancake Cookie_26
+  - first:
+      213: 471822823494673092
+    second: Mobile - Cookie Run - Pancake Cookie_27
+  - first:
+      213: 7958610434499301490
+    second: Mobile - Cookie Run - Pancake Cookie_28
+  - first:
+      213: -4682503340657766637
+    second: Mobile - Cookie Run - Pancake Cookie_29
+  - first:
+      213: -665081431799453211
+    second: Mobile - Cookie Run - Pancake Cookie_30
+  - first:
+      213: -2186667902103249408
+    second: Mobile - Cookie Run - Pancake Cookie_31
+  - first:
+      213: 7088647370811000726
+    second: Mobile - Cookie Run - Pancake Cookie_32
+  - first:
+      213: 7550120952532383011
+    second: Mobile - Cookie Run - Pancake Cookie_33
+  - first:
+      213: 7198342647128806821
+    second: Mobile - Cookie Run - Pancake Cookie_34
+  - first:
+      213: 967273283148945906
+    second: Mobile - Cookie Run - Pancake Cookie_35
+  - first:
+      213: -4208886561594251967
+    second: Mobile - Cookie Run - Pancake Cookie_36
+  - first:
+      213: 5631062337263649670
+    second: Mobile - Cookie Run - Pancake Cookie_37
+  - first:
+      213: 5003350756500108951
+    second: Mobile - Cookie Run - Pancake Cookie_38
+  - first:
+      213: 2426801545444289126
+    second: Mobile - Cookie Run - Pancake Cookie_39
+  - first:
+      213: 4141113387959271009
+    second: Mobile - Cookie Run - Pancake Cookie_40
+  - first:
+      213: -6354018416484782236
+    second: Mobile - Cookie Run - Pancake Cookie_41
+  - first:
+      213: 1519918400452984092
+    second: Mobile - Cookie Run - Pancake Cookie_42
+  - first:
+      213: 8194752411704765349
+    second: Mobile - Cookie Run - Pancake Cookie_43
+  - first:
+      213: 4812940316781910046
+    second: Mobile - Cookie Run - Pancake Cookie_44
+  - first:
+      213: -1398790655191037086
+    second: Mobile - Cookie Run - Pancake Cookie_45
+  - first:
+      213: -3684802446422330717
+    second: Mobile - Cookie Run - Pancake Cookie_46
+  - first:
+      213: 8228159906865554839
+    second: Mobile - Cookie Run - Pancake Cookie_47
+  - first:
+      213: 2089204471161753000
+    second: Mobile - Cookie Run - Pancake Cookie_48
+  - first:
+      213: -376922459043748605
+    second: Mobile - Cookie Run - Pancake Cookie_49
+  - first:
+      213: 4901413844794762117
+    second: Mobile - Cookie Run - Pancake Cookie_50
+  - first:
+      213: -5437477411434348988
+    second: Mobile - Cookie Run - Pancake Cookie_51
+  - first:
+      213: -4010516965760407514
+    second: Mobile - Cookie Run - Pancake Cookie_52
+  - first:
+      213: -5820811822321450003
+    second: Mobile - Cookie Run - Pancake Cookie_53
+  - first:
+      213: -2046123858872276969
+    second: Mobile - Cookie Run - Pancake Cookie_54
+  - first:
+      213: 5134838971125092373
+    second: Mobile - Cookie Run - Pancake Cookie_55
+  - first:
+      213: 6282003157551717662
+    second: Mobile - Cookie Run - Pancake Cookie_56
+  - first:
+      213: 2841510119941465967
+    second: Mobile - Cookie Run - Pancake Cookie_57
+  - first:
+      213: -5917381943684381480
+    second: Mobile - Cookie Run - Pancake Cookie_58
+  - first:
+      213: 4481036198736911877
+    second: Mobile - Cookie Run - Pancake Cookie_59
+  - first:
+      213: -3271544290318480811
+    second: Mobile - Cookie Run - Pancake Cookie_60
+  - first:
+      213: 1809183429224218966
+    second: Mobile - Cookie Run - Pancake Cookie_61
+  - first:
+      213: 6750374891393949288
+    second: Mobile - Cookie Run - Pancake Cookie_62
+  - first:
+      213: 2912674505216766530
+    second: Mobile - Cookie Run - Pancake Cookie_63
+  - first:
+      213: -8717572424142712190
+    second: Mobile - Cookie Run - Pancake Cookie_64
+  - first:
+      213: -4007544287875415973
+    second: Mobile - Cookie Run - Pancake Cookie_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1829
+        width: 356
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358dd0c34e0a94100800000000000000
+      internalID: 92782169458333779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_1
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1828
+        width: 356
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17fe3b3a6e85f680800000000000000
+      internalID: -8721908516421437665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_2
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1828
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2d0272d8bbb4d0800000000000000
+      internalID: -3117695103027827366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_3
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1828
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d96a393a72791a0800000000000000
+      internalID: -6802925128609522361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_4
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1828
+        width: 355
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396406dfab0c079a0800000000000000
+      internalID: -6237273574560741741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_5
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1828
+        width: 356
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba9af2e4bce4170800000000000000
+      internalID: 8164686711136824112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_6
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1830.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13dfdfcbf0e22d90800000000000000
+      internalID: -7123884288417737958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_7
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1830
+        width: 357
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9129756b7e458ab70800000000000000
+      internalID: 8910465216925897241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_8
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 1830
+        width: 357
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7999222cea9cc5a50800000000000000
+      internalID: 6511300913689434519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_9
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1830.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc6b09b01e23690800000000000000
+      internalID: -7623783779396039176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_10
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1830.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd844a5fe5e0ba00800000000000000
+      internalID: 770368352454741434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1464
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459cfd66732e849e0800000000000000
+      internalID: -1636809736972154540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1464
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae91e6a5078e9b30800000000000000
+      internalID: 4296019552902422184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_13
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1464
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6622c9e395adfc20800000000000000
+      internalID: 3241929361477215854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1464
+        width: 356
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecbe532d6aa389d0800000000000000
+      internalID: -2773185559808525088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_15
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e8ad8515710c80800000000000000
+      internalID: -8358270697991509779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_16
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd1a56062c378400800000000000000
+      internalID: 326295632020643276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_17
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e2da1c38b0a01d0800000000000000
+      internalID: -3383879509497532907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_18
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce1b950beb702c70800000000000000
+      internalID: 8944285109299388096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_19
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba672407806433400800000000000000
+      internalID: 302662602021041835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_20
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a5bcb53aee91b0800000000000000
+      internalID: -5647819366155835344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_21
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1466.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2122f9d8ce4b0f940800000000000000
+      internalID: 5327957287260594706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d71b15858386960800000000000000
+      internalID: 7595382723539205423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3151c043eeb5e00800000000000000
+      internalID: 1034682446720078780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_24
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fccaade82219ce0800000000000000
+      internalID: -1400300012186054878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_25
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f4a1b3c644f9d0800000000000000
+      internalID: -2741488466848844643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_26
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8158558f68617c0800000000000000
+      internalID: -4100942009529460528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_27
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2625fab504c8600800000000000000
+      internalID: 471822823494673092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_28
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2705c0e060aa27e60800000000000000
+      internalID: 7958610434499301490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_29
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f83884508640fb0800000000000000
+      internalID: -4682503340657766637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_30
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a2e626f725c6f0800000000000000
+      internalID: -665081431799453211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_31
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e1365e02567a1e0800000000000000
+      internalID: -2186667902103249408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_32
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1102.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697423bf93fef5260800000000000000
+      internalID: 7088647370811000726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3253dea010b67c860800000000000000
+      internalID: 7550120952532383011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a558a5cf76a5e360800000000000000
+      internalID: 7198342647128806821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_35
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f991da1de17c6d00800000000000000
+      internalID: 967273283148945906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_36
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145624cc8f70795c0800000000000000
+      internalID: -4208886561594251967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_37
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6834ea07c5d852e40800000000000000
+      internalID: 5631062337263649670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_38
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796fedf01097f6540800000000000000
+      internalID: 5003350756500108951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_39
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a6398d52bbda120800000000000000
+      internalID: 2426801545444289126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_40
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3def8fa0387930800000000000000
+      internalID: 4141113387959271009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_41
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f622d4aedf1d7a0800000000000000
+      internalID: -6354018416484782236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_42
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d749a7bb5d71510800000000000000
+      internalID: 1519918400452984092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_43
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 738.1666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab20f996eb99b170800000000000000
+      internalID: 8194752411704765349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1811f2d7bffac240800000000000000
+      internalID: 4812940316781910046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bc33a6f4f769ce0800000000000000
+      internalID: -1398790655191037086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_46
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b189a2b3fcdcc0800000000000000
+      internalID: -3684802446422330717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_47
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79525d337db403270800000000000000
+      internalID: 8228159906865554839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_48
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad01ceb5685efc10800000000000000
+      internalID: 2089204471161753000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_49
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a4d04507e4caf0800000000000000
+      internalID: -376922459043748605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_50
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5836c2c4ce1550440800000000000000
+      internalID: 4901413844794762117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_51
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebe317a133a84b0800000000000000
+      internalID: -5437477411434348988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_52
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286c2a7118c758c0800000000000000
+      internalID: -4010516965760407514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_53
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3c222dc72583fa0800000000000000
+      internalID: -5820811822321450003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_54
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 374.16666
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186771f035ba93e0800000000000000
+      internalID: -2046123858872276969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105eb4b6dc924740800000000000000
+      internalID: 5134838971125092373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d90cb96982e2750800000000000000
+      internalID: 6282003157551717662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_57
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e9cc26621f6720800000000000000
+      internalID: 2841510119941465967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_58
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c16e497c31eda0800000000000000
+      internalID: -5917381943684381480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_59
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e51636ea6df2e30800000000000000
+      internalID: 4481036198736911877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_60
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0c942dc32992d0800000000000000
+      internalID: -3271544290318480811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_61
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ce605eb28b1910800000000000000
+      internalID: 1809183429224218966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_62
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e904ed2362ead50800000000000000
+      internalID: 6750374891393949288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_63
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24238cdc706eb6820800000000000000
+      internalID: 2912674505216766530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_64
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2829b336116f40780800000000000000
+      internalID: -8717572424142712190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Cookie Run - Pancake Cookie_65
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 10.1666565
+        width: 358.63635
+        height: 358.83334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504a8bf3b75268c0800000000000000
+      internalID: -4007544287875415973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
